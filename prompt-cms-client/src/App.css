@@ -1,0 +1,113 @@
+
+body {
+  background-color: #3a3942;
+}
+
+
+h1 {
+  color: #b734c0;
+  font-size:50px;
+  text-align: center;
+  font-family: Futura ND Alternate Condensed Medium;
+}
+
+
+.secondary-menu {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  width: 100%;
+  
+}
+
+.library-button {
+	padding-right: 10px; 
+	
+	
+}
+
+.library-button p{
+	
+	
+	font-family: Futura ND Alternate Condensed Medium;
+	font-size: 22px;
+
+}
+
+.category-button {
+	padding-right: 10px; 
+	
+	
+}
+
+.category-button p{
+	
+	
+	font-family: Futura ND Alternate Condensed Medium;
+	font-size: 22px;
+
+}
+
+.tag-button {
+	padding-right: 10px; 
+	
+	
+	
+}
+
+.tag-button p{
+	
+	
+	font-family: Futura ND Alternate Condensed Medium;
+	font-size: 22px;
+
+}
+
+.prompt-menu input{
+	
+	padding-right: 30px;
+	font-family: Futura ND Alternate Condensed Medium;
+	font-size: 15px;
+}
+
+
+.prompt-menu textarea{
+	
+	
+	font-family: Futura ND Alternate Condensed Medium;
+	font-size: 15px;
+}
+
+
+
+.addprompt-button p {
+	font-family: Futura ND Alternate Condensed Medium;
+	font-size: 40px;
+	padding-bottom: 50px;
+	
+	
+}
+	
+	
+	
+
+.prompt-menu {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.prompt-input {
+  display: block;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+
+
+.category-select {
+  margin-bottom: 20px;
+  
+}
+
